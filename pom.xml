@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>level03.lesson06</groupId>
-    <artifactId>java03_lesson06</artifactId>
+    <artifactId>junit-testing</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
